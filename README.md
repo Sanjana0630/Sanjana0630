@@ -106,7 +106,7 @@ Planned Features:
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjana0630/Sanjana0630/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Sanjana0630/Sanjana0630/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
