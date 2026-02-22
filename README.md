@@ -10,7 +10,7 @@
 ---
 
 ## 💫 About Me
-🌱 I’m currently working on **Smart Daycare Finder (Major Project)**  
+🌱 I’m currently working on **Smart Daycare Finder**  
 🎓 MCA Student (Computer Applications)  
 👶 Specialized in **Daycare & Child Management Systems**  
 🚀 Aspiring Full Stack & Data Science Developer  
