@@ -94,7 +94,7 @@ Planned Features:
 
 # 📈 GitHub Stats (Accurate)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana0630&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  
   <img src="https://streak-stats.demolab.com?user=Sanjana0630&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
