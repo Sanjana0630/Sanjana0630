@@ -98,9 +98,7 @@ Planned Features:
   <img src="https://streak-stats.demolab.com?user=Sanjana0630&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana0630&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ---
 
