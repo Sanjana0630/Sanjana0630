@@ -36,17 +36,7 @@
 
 ---
 
-## 🏫 Smart Daycare Finder (In Progress 🚧)
-An intelligent platform to find nearby daycare centers based on location, ratings, and fees.
 
-Planned Features:
-- 📍 Location-based Search  
-- ⭐ Ratings & Reviews  
-- 💰 Fee Comparison  
-- 🔔 Parent Alerts  
-- 🗺️ Map Integration  
-
----
 
 # 🛠️ Tech Stack (Category Wise)
 
