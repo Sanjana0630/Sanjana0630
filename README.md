@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;Building+Smart+Daycare+Finder;Passionate+about+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Learner;Passionate+about+Real+World+Projects+🚀" />
 </p>
 
 ---
