@@ -9,17 +9,17 @@
 
 ---
 
-💫 **About Me**
+## 💫 About Me  
 
-🎓 MCA Student (Computer Applications)
-💻 Passionate about Full Stack Development & Data Science
-🚀 Building real-world, impactful applications
-👩‍💻 Skilled in Web Development, UI/UX & MERN Stack
-🤝 Open to collaboration on Web & AI-based projects
-📈 Currently improving Backend Development & Deployment skills
-💬 Ask me about Web Development, UI/UX, and MERN Stack
-⚡ Fun fact: I enjoy turning ideas into practical solutions that help people
-
+🎓 MCA Student (Computer Applications)  
+💻 Passionate about Full Stack Development & Data Science  
+🚀 Building real-world, impactful applications  
+👩‍💻 Skilled in Web Development, UI/UX & MERN Stack  
+🤝 Open to collaboration on Web & AI-based projects  
+📈 Currently improving Backend Development & Deployment  
+🌱 Exploring scalable systems, real-time apps & AI integration  
+💬 Ask me about Web Development, UI/UX & MERN Stack  
+⚡ Fun fact: I turn ideas into real-world solutions 🚀  
 
 ---
 
@@ -37,8 +37,6 @@
 - Parent-Friendly UI  
 
 ---
-
-
 
 # 🛠️ Tech Stack (Category Wise)
 
@@ -86,11 +84,8 @@
 
 # 📈 GitHub Stats (Accurate)
 <p align="center">
-  
   <img src="https://streak-stats.demolab.com?user=Sanjana0630&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-
 
 ---
 
