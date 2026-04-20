@@ -9,15 +9,17 @@
 
 ---
 
-## 💫 About Me
-🌱 I’m currently working on **Smart Daycare Finder**  
-🎓 MCA Student (Computer Applications)  
-👶 Specialized in **Daycare & Child Management Systems**  
-🚀 Aspiring Full Stack & Data Science Developer  
-👯 I’m looking to collaborate on **Web & AI Projects**  
-🤝 I’m looking for help with **Backend & Deployment**  
-💬 Ask me about **Web Development, UI/UX & MERN Stack**  
-⚡ Fun fact: I love building real-world impactful applications ✨  
+💫 **About Me**
+
+🎓 MCA Student (Computer Applications)
+💻 Passionate about Full Stack Development & Data Science
+🚀 Building real-world, impactful applications
+👩‍💻 Skilled in Web Development, UI/UX & MERN Stack
+🤝 Open to collaboration on Web & AI-based projects
+📈 Currently improving Backend Development & Deployment skills
+💬 Ask me about Web Development, UI/UX, and MERN Stack
+⚡ Fun fact: I enjoy turning ideas into practical solutions that help people
+
 
 ---
 
