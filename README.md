@@ -17,7 +17,7 @@
 👩‍💻 Skilled in Web Development, UI/UX & MERN Stack  
 🤝 Open to collaboration on Web & AI-based projects  
 📈 Currently improving Backend Development & Deployment  
-🌱 Exploring scalable systems, real-time apps & AI integration  
+🌱 Exploring scalable systems, real-time apps 
 💬 Ask me about Web Development, UI/UX & MERN Stack  
 ⚡ Fun fact: I turn ideas into real-world solutions 🚀  
 
