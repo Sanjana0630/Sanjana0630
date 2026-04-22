@@ -38,7 +38,7 @@
 
 ---
 
-# 🛠️ Tech Stack (Category Wise)
+# 🛠️ Tech Stack 
 
 ## 📱 Web Development
 <p>
