@@ -32,7 +32,7 @@
 💡 Features:
 - Child Profile Management  
 - Attendance & Progress Tracking  
-- Admin & Staff Dashboard  
+- Admin & Staff and Parent Dashboard  
 - Secure Login System  
 - Parent-Friendly UI  
 
