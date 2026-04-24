@@ -82,7 +82,7 @@
 
 ---
 
-# 📈 GitHub Stats (Accurate)
+# 📈 GitHub Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanjana0630&theme=tokyonight&hide_border=true" height="170"/>
 </p>
