@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-🎓 MCA Student (Computer Applications)  
+🎓 MCA Student (Computer Applications) 
 💻 Passionate about Full Stack Development & Data Science  
 🚀 Building real-world, impactful applications  
 👩‍💻 Skilled in Web Development, UI/UX & MERN Stack  
